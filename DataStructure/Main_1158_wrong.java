@@ -1,3 +1,6 @@
+
+/* 내가 푼 풀이. 틀린 풀이. 그러나 왜 틀렸는지 모르겠다. */
+	
 import java.util.Scanner;
 
 public class Main_1158 {
